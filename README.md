@@ -21,8 +21,8 @@ I am currently working as a Machine Learning and MLOps Engineer, developing NLP 
 <img src="https://img.shields.io/badge/-Scikit Learn-F7931E?style=for-the-badge&logo=Scikit-Learn&logoColor=white"></img>
 <img src="https://img.shields.io/badge/-Tensorflow-ed8e24?style=for-the-badge&logo=Tensorflow&logoColor=white"></img>
 
-<img src="https://img.shields.io/badge/-Azure-0497F2?style=for-the-badge&logo=Microsoft Azure&logoColor=white"></img>
-<img src="https://img.shields.io/badge/-Google Cloud-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"></img>
+<!--<img src="https://img.shields.io/badge/-Azure-0497F2?style=for-the-badge&logo=Microsoft Azure&logoColor=white"></img>
+<img src="https://img.shields.io/badge/-Google Cloud-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=white"></img>-->
 <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"></img>
 
 </div>
